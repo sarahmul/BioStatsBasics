@@ -28,7 +28,7 @@
 * iPython notebook (RVDistSamp.ipynb) describes:
     * Random Variables: Discrete and Continuous Analysis
     * Cumulative Probability Distributions, Cumulative Density Functions, Probability Density Functions, and Probability Mass Functions
-    * The Law of Large Numbers and
+    * The Law of Large Numbers
     * Central Limit Theorem
 
 * Note: There is an equivalent R/R-studio file (RVDistSamp.R)
