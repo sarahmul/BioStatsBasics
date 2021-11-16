@@ -40,5 +40,6 @@
     * One Sample, Two Sample, and Paired Tests for Continuous and Discrete data
       - Parametric
       - Non-parametric
+    * Example with replicates
 
 * Note: There is an equivalent R/R-studio file (InferentialStats.R)
