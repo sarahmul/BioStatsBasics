@@ -2,6 +2,8 @@
 
 # Fall 2021
 
+## How to open command line [instructions](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955)
+
 ## Setup Option 1
 * R & RStudio
     * [Download](https://cloud.r-project.org/) and install R
