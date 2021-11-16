@@ -31,8 +31,12 @@
     * The Law of Large Numbers and
     * Central Limit Theorem
 
+* Note: There is an equivalent R/R-studio file (RVDistSamp.R)
+
 ## Intro to Inferential Statistics:Parametric and Non-Parametric
 *  iPython notebook (InferentialStats.ipynb) describes:
     * One Sample, Two Sample, and Paired Tests for Continuous and Discrete data
       - Parametric
       - Non-parametric
+
+* Note: There is an equivalent R/R-studio file (InferentialStats.R)
