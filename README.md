@@ -19,9 +19,9 @@
 * Anaconda Python
     * [Download](https://www.anaconda.com/download/) and install Python 3.8 Anaconda
 * Open the command line (Mac) or command prompt (Windows) type in:
-**  'conda create -n R_class r-essentials r-base r-irkernel jupyter r-ggplot2 r-dplyr'
-**  'conda activate R_class'
-**  'conda list' (this will list all of the packages you just installed)
+   *  'conda create -n R_class r-essentials r-base r-irkernel jupyter r-ggplot2 r-dplyr'
+   *  'conda activate R_class'
+   *  'conda list' (this will list all of the packages you just installed)
 
 
 ## Random variables, distributions, and sampling
@@ -34,5 +34,5 @@
 ## Intro to Inferential Statistics:Parametric and Non-Parametric
 *  iPython notebook (InferentialStats.ipynb) describes:
     * One Sample, Two Sample, and Paired Tests for Continuous and Discrete data
-    ** Parametric
-    ** Non-parametric
+      - Parametric
+      - Non-parametric
