@@ -1,5 +1,5 @@
 library(gtools)
-install.packages("moments")
+#install.packages("moments")
 library(moments)
 
 #Generate N=15 independent binomial random variables with n=5 trials and probability p=.6
@@ -88,7 +88,7 @@ N_big=rnorm(10000, mean=20, sd=8)
 #What is the mean of our sample?
 mean(N_big) #Is this close to E(x)=20?
 
-### THis is called the law of large numbers!  
+### This is called the law of large numbers!  
 #The average of the results obtained from a large number of 
 #trials should be close to the expected value
 
@@ -121,9 +121,3 @@ var(barX)
 hist(barX,freq=NULL, col="Green")
 par(new=TRUE)
 plot(x,dnorm(x,mean=3.5,sd=0.34),type='l', xaxt="n", yaxt="n", xlab="", ylab="", col="purple")
-
-###set your working directory##
-#setwd("/Users/sarahmullin/Desktop/BMI 504/")
-###make sure datafiles are in the folder that you set your working directory to.
-######hospital infection risk data
-
