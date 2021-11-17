@@ -1,3 +1,7 @@
+library(dplyr)
+library(plyr)
+
+setwd('/Users/sarahmullin/Desktop/Teaching/BioStatsBasics/')
 Example_1=read.csv("Dataset1.csv", sep=",", header=T)
 colnames(Example_1)<-c("Cholesterol", "Group")
 
