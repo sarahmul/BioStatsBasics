@@ -1,6 +1,6 @@
 # BioStatsBasics
 
-# Fall 2021
+# Fall 2022
 
 ## How to open command line [instructions](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955)
 
